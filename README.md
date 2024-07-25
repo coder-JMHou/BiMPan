@@ -1,5 +1,5 @@
 # Bidomain Modeling Paradigm for Pansharpening
-- Code for the paper: "Bidomain Modeling Paradigm for Pansharpening", ACM MM 2023.
+- Code for the paper: "Bidomain Modeling Paradigm for Pansharpening", ACM MM 2023 (Oral).
 - State-of-the-art (SOTA) performance on the [PanCollection](https://github.com/liangjiandeng/PanCollection) of remote sensing pansharpening.
 
 ## Method
